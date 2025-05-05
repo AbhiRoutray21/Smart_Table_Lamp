@@ -4,4 +4,4 @@ Single-Tap: This action turn on and switching between three lights (White,Warm-w
 Swipe: This action get perform on a three adjacent curve touch-pad, it turn on and switching between static RGB lights, swiping from left to right change the RGB light in forward order and swiping from right to left it goes in backwards order.
 Long-prress: This action turn on the animation of different colors.
 
-![Image](https://github.com/user-attachments/assets/914e8931-7a13-40d0-80de-7a4638e96876)
+![Image](https://github.com/user-attachments/assets/28972a09-ff11-47be-a4d4-d62baad3ef75)
